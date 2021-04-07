@@ -18,7 +18,7 @@ If you make use of these tools, please cite following paper.
 
 ```
 @inproceedings{DBLP:conf/ecir/SahinucT21,
-  author = {Furkan Sahinu{\c{c}} and Cagri Toraman},
+  author = {Furkan {\c{S}}ahinu{\c{c}} and Cagri Toraman},
   title = {Tweet Length Matters: {A} Comparative Analysis on Topic Detection in Microblogs},
   booktitle = {Advances in Information Retrieval - 43rd European Conference on {IR} Research, {ECIR} 2021, Virtual Event, March 28 - April 1, 2021, Proceedings, Part {II}},
   series = {Lecture Notes in Computer Science},
