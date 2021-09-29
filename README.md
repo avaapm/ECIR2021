@@ -16,7 +16,7 @@ In total, there are 354,310 tweet instances.
 ## Citation
 If you make use of these tools, please cite following paper.
 
-```
+```bibtex
 @inproceedings{DBLP:conf/ecir/SahinucT21,
   author = {Furkan {\c{S}}ahinu{\c{c}} and Cagri Toraman},
   title = {Tweet Length Matters: {A} Comparative Analysis on Topic Detection in Microblogs},
